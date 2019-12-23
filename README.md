@@ -1,6 +1,8 @@
 # theinternetbackup-cli
 ## An easy-CLI tool to upload domain lists to TheInternetBackup.com to gain points for your account!
 
+Note that you must get an API key for your TheInteretBackup.com account via [https://theinternetbackup.com/#account](https://theinternetbackup.com/#account)
+
 ## Usage
 ```
 $ node tib-cli.js --help
