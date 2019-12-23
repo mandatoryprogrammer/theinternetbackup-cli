@@ -1,7 +1,7 @@
 # theinternetbackup-cli
 ## An easy-CLI tool to help automate uploading domain lists to TheInternetBackup.com to gain points for your account!
 
-Note that you must get an API key for your TheInteretBackup.com account via [https://theinternetbackup.com/#account](https://theinternetbackup.com/#account)
+Note that you must get an API key for your TheInternetBackup.com account via [https://theinternetbackup.com/#account](https://theinternetbackup.com/#account)
 
 ## Download Compiled Binaries
 
