@@ -5,8 +5,18 @@ Note that you must get an API key for your TheInternetBackup.com account via [ht
 
 ## Download Compiled Binaries
 
+If you don't want to deal with installing Node and `npm` packages, you can instead use one of the following portable binaries:'
+
 [`OS X`](https://raw.githubusercontent.com/mandatoryprogrammer/theinternetbackup-cli/master/bin/tib-cli-linux-x64)
 [`Linux x64`](//raw.githubusercontent.com/mandatoryprogrammer/theinternetbackup-cli/master/bin/tib-cli-osx-x64)
+
+## Installation
+
+* You must first install Node (at least 8): https://nodejs.org/en/download/
+* `cd` in the repo directory and run `npm install`. This will install all dependencies.
+* You can now run the script `tib-cli.js` by running `node tib-cli.js`
+
+**Important**: This does not currently parse zone files, only domain lists. Ensure you've already converted your zone files into proper domain lists (the punycoding will be done automatically for you).
 
 ## Usage
 ```
