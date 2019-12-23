@@ -3,6 +3,11 @@
 
 Note that you must get an API key for your TheInteretBackup.com account via [https://theinternetbackup.com/#account](https://theinternetbackup.com/#account)
 
+## Download Compiled Binaries
+
+[`OS X`](https://raw.githubusercontent.com/mandatoryprogrammer/theinternetbackup-cli/master/bin/tib-cli-linux-x64)
+[`Linux x64`](//raw.githubusercontent.com/mandatoryprogrammer/theinternetbackup-cli/master/bin/tib-cli-osx-x64)
+
 ## Usage
 ```
 $ node tib-cli.js --help
